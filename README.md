@@ -23,7 +23,7 @@ suitable for retail, office supply, and home product performance tracking.
 
 <h2>🖼️ Dashboard Preview</h2>
 <p>
-  <img src="#" alt="Sterling Office & Home Report Power BI Dashboard" width="800"/>
+  <img src="https://github.com/utkarsh-kumar4/Sterling-Office-Home-Powerbi-Report/blob/main/Report.png" alt="Sterling Office & Home Report Power BI Dashboard" width="800"/>
 </p>
 
 ## Author 👤
