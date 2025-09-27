@@ -26,7 +26,5 @@ suitable for retail, office supply, and home product performance tracking.
   <img src="#" alt="Sterling Office & Home Report Power BI Dashboard" width="800"/>
 </p>
 
-<p>
-🔗 Connect with me:  
-<a href="https://github.com/utkarsh-kumar4" target="_self">👤 Author: Utkarsh Kumar</a>
-</p>
+## Author 👤
+[Utkarsh Kumar](https://github.com/utkarsh-kumar4) 👨🏻‍💻🎓
